@@ -1,0 +1,28 @@
+{
+  "name": "mercuryjs",
+  "version": "1.0.0",
+  "description": "It utilizes Mercury Parser to extract the full content of the given URL.",
+  "main": "mercury.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryQW/mercuryjs.git"
+  },
+  "keywords": [
+    "Mercury Parser",
+    "Mercury API",
+    "Postlight",
+    "Readability"
+  ],
+  "author": "HenryQW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenryQW/mercuryjs/issues"
+  },
+  "homepage": "https://github.com/HenryQW/mercuryjs#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
