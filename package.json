@@ -1,14 +1,14 @@
 {
-  "name": "mercuryjs",
+  "name": "mercury-wrapper",
   "version": "1.0.0",
-  "description": "It utilizes Mercury Parser to extract the full content of the given URL.",
-  "main": "mercury.js",
+  "description": "mercury-wrapper utilizes Mercury Parser to extract the full content of the given URL.",
+  "main": "mercury-wrapper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HenryQW/mercuryjs.git"
+    "url": "git+https://github.com/HenryQW/mercury.git"
   },
   "keywords": [
     "Mercury Parser",
@@ -19,9 +19,9 @@
   "author": "HenryQW",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HenryQW/mercuryjs/issues"
+    "url": "https://github.com/HenryQW/mercury/issues"
   },
-  "homepage": "https://github.com/HenryQW/mercuryjs#readme",
+  "homepage": "https://github.com/HenryQW/mercury#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }

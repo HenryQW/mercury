@@ -1,4 +1,4 @@
-const mercury = require("./mercury")(process.env.API_KEY);
+const mercury = require("./mercury-wrapper")(process.env.API_KEY);
 
 const res = async () => {
   await mercury.parse(
