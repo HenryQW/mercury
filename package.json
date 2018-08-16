@@ -1,6 +1,6 @@
 {
   "name": "mercury-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "mercury-wrapper utilizes Mercury Parser to extract the full content of the given URL.",
   "main": "mercury-wrapper.js",
   "scripts": {
