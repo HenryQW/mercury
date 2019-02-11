@@ -4,6 +4,12 @@ mercury-wrapper utilizes [Mercury Parser](https://mercury.postlight.com/web-pars
 
 Also availble as a [Tiny Tiny RSS plugin](https://github.com/HenryQW/mercury_fulltext)
 
+## Warning
+
+**Mercury API will be shutting down** in the future, please read more [here](https://postlight.com/trackchanges/mercury-goes-open-source)
+
+You'are advised to host your own mercury instance, thus **this repo will be deprecated** in the future. For a dockerized self-host solution, please visit my repo [mercury-parser-api](https://github.com/HenryQW/mercury-parser-api).
+
 ### Installation
 
 ```
